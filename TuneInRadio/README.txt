@@ -20,7 +20,7 @@ GIT HUB REPO
 ************
 
 
-Git URL - 
+Git URL - https://github.com/Vijayiosdeveloper/TuneIn
 
 
 *****************
